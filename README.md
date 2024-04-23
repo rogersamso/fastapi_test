@@ -18,9 +18,9 @@
 
 - **Description:** Returns statistics for the whole dataset, or for specific data series.
 - **Parameters:**
-  - `names`: The name of the item.
-  - `start_date`: The start date of the item in the format `yyyy-mm-dd hh:mm:ss`.
-  - `end_date`: The end date of the item in the format `yyyy-mm-dd hh:mm:ss`.
+  - `names` (optional): The name of the item.
+  - `start_date` (optional): The start date of the item in the format `yyyy-mm-dd hh:mm:ss`.
+  - `end_date` (optional): The end date of the item in the format `yyyy-mm-dd hh:mm:ss`.
 - **Example Request:**
   ```json
   POST /items/
