@@ -1,4 +1,4 @@
-# fastAPI for nnergix
+# fastAPI example 
 
 ## Endpoint 1: GET /items/
 
